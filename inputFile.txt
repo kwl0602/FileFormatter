@@ -1,0 +1,19 @@
+lorem,ipsum,dolor
+(foo)bar
+baz[qux]quux
+1+1=2
+a&&b||c
+x=5*y+3
+{
+line1;
+line2;
+line3;
+}
+
+int a=10,b=20;int result=a+b;if(a>b){System.out.println("a is greater than b");}else{System.out.println("b is greater than or equal to a");}
+for(int i=0;i<10;i++){System.out.print(i+",");}
+int[]array={1,2,3,4};System.out.println(array[1]);
+int sum=0;for(int i=0;i<array.length;i++){sum+=array[i];}
+System.out.println("Sum="+sum);
+
+(hello; world);
